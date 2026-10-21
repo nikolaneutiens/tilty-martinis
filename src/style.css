@@ -1,0 +1,23 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background: #000;
+  overflow: hidden;
+}
+
+#frame {
+  position: absolute;
+  inset: 0;
+  margin: auto;
+  width: min(100vw, 133.333vh);
+  height: min(100vh, 75vw);
+  overflow: hidden;
+  background: #000;
+}
+
+canvas#webgl {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
