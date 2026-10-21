@@ -2,7 +2,7 @@
 
 A balancing game in a 1930s cartoon bar. Martinis drop onto a tray, and you keep it level by leaning your body left and right in front of your webcam. Glasses that land on top of each other stick together, so you can build towers, but the tray is slippery: tilt too far and they slide off. Three martinis on the floor and the party's over. Raise your hand to order another round.
 
-**Live:** https://&lt;your-username&gt;.github.io/tilty-martinis/
+**Live:** https://nikolaneutiens.github.io/tilty-martinis/
 
 Made with three.js (`WebGPURenderer`), Shadertoy shaders ported to WGSL, Rapier physics, ml5 body tracking and a baked Blender scene.
 
